@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+
+}
+.App{
+  background-image: url("./img/dave-reed-ov1vbxvM5do-unsplash.jpg");
+  background-size:cover
+}
+.layout {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 100vh;
+  max-width: 60vw;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Hina Mincho", serif;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+.historia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  color: black;
+  background-color: transparent;
+}
+
+.opciones {
+  color: black;
+  background:none
+}
+
+.opcion {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.recordatorio {
+  color: black;
+  margin-top: 60px;
+}
+
+.botones {
+  box-shadow: inset 0px 1px 0px 0px black;
+  background: linear-gradient(to bottom, whitesmoke 5%, whitesmoke 100%);
+  background-color: whitesmoke;
+  border-radius: 6px;
+  border: 1px solid gray;
+  display: inline-block;
+  cursor: pointer;
+  color: black;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px black;
+}
+.botones:hover {
+  background: linear-gradient(to bottom, rgb(160, 160, 160) 5%, rgb(160, 160, 160) 100%);
+  background-color: whitesmoke;
+}
+.botones:active {
+  position: relative;
+  top: 1px;
+}
+
