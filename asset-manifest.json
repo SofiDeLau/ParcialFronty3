@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sofidelau.github.io/ParcialFronty3/static/css/main.b416eb9d.chunk.css",
-    "main.js": "/sofidelau.github.io/ParcialFronty3/static/js/main.65db1c01.chunk.js",
-    "main.js.map": "/sofidelau.github.io/ParcialFronty3/static/js/main.65db1c01.chunk.js.map",
-    "runtime-main.js": "/sofidelau.github.io/ParcialFronty3/static/js/runtime-main.bb48c97f.js",
-    "runtime-main.js.map": "/sofidelau.github.io/ParcialFronty3/static/js/runtime-main.bb48c97f.js.map",
-    "static/js/2.577affbf.chunk.js": "/sofidelau.github.io/ParcialFronty3/static/js/2.577affbf.chunk.js",
-    "static/js/2.577affbf.chunk.js.map": "/sofidelau.github.io/ParcialFronty3/static/js/2.577affbf.chunk.js.map",
-    "index.html": "/sofidelau.github.io/ParcialFronty3/index.html",
-    "static/css/main.b416eb9d.chunk.css.map": "/sofidelau.github.io/ParcialFronty3/static/css/main.b416eb9d.chunk.css.map",
-    "static/js/2.577affbf.chunk.js.LICENSE.txt": "/sofidelau.github.io/ParcialFronty3/static/js/2.577affbf.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/sofidelau.github.io/ParcialFronty3/static/media/dave-reed-ov1vbxvM5do-unsplash.6fb23321.jpg"
+    "main.css": "/ParcialFronty3/static/css/main.8efa3662.chunk.css",
+    "main.js": "/ParcialFronty3/static/js/main.65db1c01.chunk.js",
+    "main.js.map": "/ParcialFronty3/static/js/main.65db1c01.chunk.js.map",
+    "runtime-main.js": "/ParcialFronty3/static/js/runtime-main.218d391d.js",
+    "runtime-main.js.map": "/ParcialFronty3/static/js/runtime-main.218d391d.js.map",
+    "static/js/2.577affbf.chunk.js": "/ParcialFronty3/static/js/2.577affbf.chunk.js",
+    "static/js/2.577affbf.chunk.js.map": "/ParcialFronty3/static/js/2.577affbf.chunk.js.map",
+    "index.html": "/ParcialFronty3/index.html",
+    "static/css/main.8efa3662.chunk.css.map": "/ParcialFronty3/static/css/main.8efa3662.chunk.css.map",
+    "static/js/2.577affbf.chunk.js.LICENSE.txt": "/ParcialFronty3/static/js/2.577affbf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ParcialFronty3/static/media/dave-reed-ov1vbxvM5do-unsplash.6fb23321.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb48c97f.js",
+    "static/js/runtime-main.218d391d.js",
     "static/js/2.577affbf.chunk.js",
-    "static/css/main.b416eb9d.chunk.css",
+    "static/css/main.8efa3662.chunk.css",
     "static/js/main.65db1c01.chunk.js"
   ]
 }
