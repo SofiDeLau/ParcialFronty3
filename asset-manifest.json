@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sofidelau.github.io/parcialfronty3/static/css/main.10b9f82c.chunk.css",
-    "main.js": "/sofidelau.github.io/parcialfronty3/static/js/main.65db1c01.chunk.js",
-    "main.js.map": "/sofidelau.github.io/parcialfronty3/static/js/main.65db1c01.chunk.js.map",
-    "runtime-main.js": "/sofidelau.github.io/parcialfronty3/static/js/runtime-main.26b1144c.js",
-    "runtime-main.js.map": "/sofidelau.github.io/parcialfronty3/static/js/runtime-main.26b1144c.js.map",
-    "static/js/2.577affbf.chunk.js": "/sofidelau.github.io/parcialfronty3/static/js/2.577affbf.chunk.js",
-    "static/js/2.577affbf.chunk.js.map": "/sofidelau.github.io/parcialfronty3/static/js/2.577affbf.chunk.js.map",
-    "index.html": "/sofidelau.github.io/parcialfronty3/index.html",
-    "static/css/main.10b9f82c.chunk.css.map": "/sofidelau.github.io/parcialfronty3/static/css/main.10b9f82c.chunk.css.map",
-    "static/js/2.577affbf.chunk.js.LICENSE.txt": "/sofidelau.github.io/parcialfronty3/static/js/2.577affbf.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/sofidelau.github.io/parcialfronty3/static/media/dave-reed-ov1vbxvM5do-unsplash.6fb23321.jpg"
+    "main.css": "/sofidelau.github.io/ParcialFronty3/static/css/main.b416eb9d.chunk.css",
+    "main.js": "/sofidelau.github.io/ParcialFronty3/static/js/main.65db1c01.chunk.js",
+    "main.js.map": "/sofidelau.github.io/ParcialFronty3/static/js/main.65db1c01.chunk.js.map",
+    "runtime-main.js": "/sofidelau.github.io/ParcialFronty3/static/js/runtime-main.bb48c97f.js",
+    "runtime-main.js.map": "/sofidelau.github.io/ParcialFronty3/static/js/runtime-main.bb48c97f.js.map",
+    "static/js/2.577affbf.chunk.js": "/sofidelau.github.io/ParcialFronty3/static/js/2.577affbf.chunk.js",
+    "static/js/2.577affbf.chunk.js.map": "/sofidelau.github.io/ParcialFronty3/static/js/2.577affbf.chunk.js.map",
+    "index.html": "/sofidelau.github.io/ParcialFronty3/index.html",
+    "static/css/main.b416eb9d.chunk.css.map": "/sofidelau.github.io/ParcialFronty3/static/css/main.b416eb9d.chunk.css.map",
+    "static/js/2.577affbf.chunk.js.LICENSE.txt": "/sofidelau.github.io/ParcialFronty3/static/js/2.577affbf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sofidelau.github.io/ParcialFronty3/static/media/dave-reed-ov1vbxvM5do-unsplash.6fb23321.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.26b1144c.js",
+    "static/js/runtime-main.bb48c97f.js",
     "static/js/2.577affbf.chunk.js",
-    "static/css/main.10b9f82c.chunk.css",
+    "static/css/main.b416eb9d.chunk.css",
     "static/js/main.65db1c01.chunk.js"
   ]
 }
